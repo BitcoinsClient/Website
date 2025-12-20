@@ -1,0 +1,5 @@
+{
+   "version": "0.0-alpha",
+   "file-name": "clock.jar",
+   "author": "Ludwig, Max"
+}
