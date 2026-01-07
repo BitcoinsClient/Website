@@ -1,5 +1,5 @@
 {
    "version": "1.0",
-   "file-name": "clock.jar",
+   "file-name": "Projekt-Uhr.jar",
    "author": "Ludwig, Maximilian"
 }
