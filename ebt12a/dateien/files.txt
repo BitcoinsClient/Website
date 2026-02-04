@@ -1,6 +1,6 @@
 {
   "items": [
-    "start",
+    "icon.png",
     "timer",
     "update"
   ]
