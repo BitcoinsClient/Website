@@ -1,7 +1,6 @@
 {
   "items": [
     "icon.png",
-    "timer",
-    "update"
+    "landing.html"
   ]
 }
