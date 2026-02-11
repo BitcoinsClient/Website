@@ -26,18 +26,24 @@
         .label {
             color: #ffffff;
             font-size: 16pt;
-            padding-right: 15px;
+            /* Hier habe ich den Abstand nach rechts deutlich vergrößert */
+            padding-right: 40px; 
+            padding-top: 5px;
+            padding-bottom: 5px;
         }
         .value {
             font-weight: bold;
             color: #07cff2;
         }
         .btn-timer {
-            background-color: #3498db;
+            /* Hintergrundfarbe der Seite */
+            background-color: #2c3e50; 
             color: white;
-            text-decoration: none;
+            /* Text unterstrichen */
+            text-decoration: underline; 
             padding: 12px 25px;
-            border: 2px solid #2980b9;
+            /* Rahmen bleibt für die Button-Optik, kann aber auch entfernt werden */
+            border: 2px solid #3498db; 
             font-size: 14pt;
             font-weight: bold;
         }
@@ -52,7 +58,7 @@
                 
                 <hr style="width: 45%; border: 1px solid #34495e; margin-bottom: 25px;">
                 
-                <table class="stats-table">
+                <table class="stats-table" border="0">
                     <tr>
                         <td class="label">Temperatur:</td>
                         <td class="value">replaceWithValue/TEMP °C</td>
@@ -69,7 +75,7 @@
 
                 <br><br><br>
 
-                <a href="cmd:timer" class="btn-timer">Timer einstellen</a>
+                <a href="replaceWithCommand/SETTIMER" class="btn-timer">Timer einstellen</a>
 
             </td>
         </tr>
