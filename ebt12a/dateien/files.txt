@@ -1,6 +1,7 @@
 {
   "items": [
     "icon.png",
-    "landing.html"
+    "landing.html",
+    "infos.html"
   ]
 }
