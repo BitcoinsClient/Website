@@ -2,6 +2,7 @@
   "items": [
     "icon.png",
     "landing.html",
-    "infos.html"
+    "infos.html",
+    "settimer.html"
   ]
 }
