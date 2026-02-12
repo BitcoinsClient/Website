@@ -3,6 +3,7 @@
     "icon.png",
     "landing.html",
     "infos.html",
+    "timer.html",
     "settimer.html"
   ]
 }
