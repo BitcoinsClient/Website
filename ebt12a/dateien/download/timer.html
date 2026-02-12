@@ -1,0 +1,62 @@
+<html>
+<head>
+    <style>
+        body { 
+            font-family: sans-serif; 
+            background-color: #2c3e50; 
+            color: white; 
+            margin: 0;
+            padding: 0;
+        }
+        .main-table {
+            width: 100%;
+            height: replaceHTMLCodeWithHight;
+        }
+        .time {
+            font-size: 60pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .timer-label {
+            font-size: 18pt;
+            color: #bdc3c7;
+            margin-top: 20px;
+        }
+        .timer-countdown {
+            font-size: 50pt;
+            font-weight: bold;
+            color: #e74c3c; /* Rot, um zu signalisieren, dass etwas läuft */
+            margin-bottom: 30px;
+        }
+        .btn-cancel {
+            background-color: #2c3e50; 
+            color: #ffffff;
+            text-decoration: underline; 
+            padding: 12px 25px;
+            border: 2px solid #e74c3c; /* Roter Rahmen für den Abbruch-Knopf */
+            font-size: 14pt;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <table class="main-table" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center" valign="middle">
+                
+                <div class="time">replaceWithValue/CLOCK</div>
+                
+                <hr style="width: 40%; border: 1px solid #34495e;">
+
+                <div class="timer-label">Timer läuft:</div>
+                <div class="timer-countdown">replaceWithValue/TIMER_LEFT</div>
+
+                <br><br>
+
+                <a href="timer:stop" class="btn-cancel">Timer abbrechen</a>
+
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
