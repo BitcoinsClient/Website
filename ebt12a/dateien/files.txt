@@ -4,6 +4,7 @@
     "landing.html",
     "infos.html",
     "timer.html",
-    "settimer.html"
+    "settimer.html",
+    "timerOver.html"
   ]
 }
