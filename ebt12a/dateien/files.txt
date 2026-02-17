@@ -6,6 +6,6 @@
     "timer.html",
     "settimer.html",
     "timerOver.html",
-    "timer_over.mp3"
+    "timer_over.wav"
   ]
 }
