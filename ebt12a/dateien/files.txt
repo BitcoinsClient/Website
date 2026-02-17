@@ -5,6 +5,7 @@
     "infos.html",
     "timer.html",
     "settimer.html",
-    "timerOver.html"
+    "timerOver.html",
+    "timer_over.mp3"
   ]
 }
